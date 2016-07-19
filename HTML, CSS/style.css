@@ -1,0 +1,15 @@
+ p{
+font-family:Arial, Helvetica, sans-serif;
+}
+.bold {
+font-weight:bold;
+color:red;
+font-size:10px;
+            }
+ .italic {
+font-style:italic;
+   
+   }
+            .underline {
+                  text-decoration:underline;
+}
